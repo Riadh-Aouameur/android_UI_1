@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581598478334",
+    "project_id": "auth-bea5b",
+    "storage_bucket": "auth-bea5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581598478334:android:0f067867b4f8a7bb1f8aaf",
+        "android_client_info": {
+          "package_name": "com.example.killjoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581598478334-520lujme638i9d7e12l3c0egkilid2c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM5lWeEKNtPtN_ZphFTKNajWAOK_sXhow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581598478334-520lujme638i9d7e12l3c0egkilid2c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
